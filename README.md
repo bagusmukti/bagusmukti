@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bagus Mukti Purnomo
 
-<!--
-**bagusmukti/bagusmukti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Full-Stack Developer** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+- Currently learning Mobile Development with Flutter
+- Interested in Full-Stack Web Development, DevOps workflows, and Computer Networking
+- Open to collaborations and new ideas
+
+---
+
+### GitHub stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagusmukti\&theme=github_dark_dimmed)
+
+---
+
+### Contact
+
+- Gituhub: (https://github.com/bagusmukti)
+- LinkedIn: (https://www.linkedin.com/in/bagusmuktipurnomo)
+- Email: (bagusmuktipurnomo@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=bagusmukti&style=flat-square&color=8B4513)
+
+---
+
+<sub>bagusmukti · thanks for visiting</sub>
